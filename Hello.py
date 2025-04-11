@@ -1,3 +1,7 @@
 print("Hola mundo hola git")
-print(dfd)
+print("dfd")
+
+a=5
+b=4
+print(a+b)
 
